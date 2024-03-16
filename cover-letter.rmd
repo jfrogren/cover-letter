@@ -7,7 +7,8 @@ profilepic: "./img/me.jpg"
 www: "Edward Lindahlsgatan 9, 217 42 Malmö"
 email: "joakim@frogren.se"
 phone: +46 73 516 12 12
-date: "`r format(Sys.time(), '%B %Y')`"
+date: "`r Sys.setlocale('LC_TIME', 'Swedish'); format(Sys.Date(), '%B %Y')`"
+lang: "sv"
 headcolor: 121270
 aboutme: ""
 bibliography: publications.bib
