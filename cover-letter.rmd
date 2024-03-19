@@ -44,33 +44,33 @@ source(file = here("r","data.r"))
 
 \vspace{1.25cm} \rightline{\textcolor{gray}{19 mars 2024}}
 
-\vspace{-0.5cm}\textcolor{gray}{Avdelningen för folkhälsovetenskap}    \
+\vspace{-0.5cm}\textcolor{gray}{}    \
 \textcolor{gray}{Fakulteten för hälsovetenskap}      \
 \textcolor{gray}{Högskolan Kristianstad}      \
 \textcolor{gray}{291 88 Kristianstad}      \
         
-\vspace{0.25cm}\textbf{Ansökan till tjänsten som lektor i folkhälsovetenskap, ref. P2024-3711-31 }     \
+\vspace{0.25cm}\textbf{Ansökan till tjänsten som lektor i hälsovetenskap, ref. P2024-3711-20}     \
 \vspace{0.15cm} \textcolor{black}{}
 
 
 
 
-Jag disputerade i våras med en avhandling om brukarinvolvering i forskning om åldrande och hälsa. Intresset för ämnet bottnar i mina erfarenheter av att det är betydelsefullt, inte minst ur demokratisk synvinkel, att de människor som forskning berör också ges möjlighet att vara med och påverka hur den är utformad. Det handlar till exempel om att det är adekvata och aktuella forskningsfrågor som ställs, och att de ställs på ett inkluderande sätt som inte systematiskt exkluderar vissa grupper. 
 
-Efter intensiva doktorandstudier och erhållen examen kände jag ett behov av en paus från universitetet och har därför arbetat på ett boende för personer med psykisk sjukdom och i vissa fall en beroendeproblematik. Det har för mig varit ett välbehövligt avbrott, men jag känner nu en längtan efter mer intellektuell stimulans.
-Jag är också i en livssituation där jag känner ett behov av att "landa" och att förankra mig på en arbetsplats där jag ser goda möjligheter att trivas och utvecklas under en längre tid. I lektorstjänsten inom folkhälsovetenskap vid HKR ser jag en sådan möjlighet. 
+## Varför söker jag tjänsten?
 
-Jag har erfarenhet av att föreläsa för en rad olika målgrupper, alltifrån en intresserad allmänhet till studenter och seniora forskare. Som medlem i en nationell forskarskola under min doktorandtid var jag med och anordnade en vetenskaplig konferens. I den rollen ingick många uppgifter som påminner om en undervisningssituation på en högskola, såsom att föra dialog med inbjudna föreläsare, att introducera dem inför åhörarna och att se till så att tekniken fungerar. Inom forskarskolan fick vi som var anslutna doktorander också regelbundet öva oss på att presentera vår forskning för varandra och att komma med återkoppling på ett konstruktivt sätt.
+Högskolan Kristianstad (HKR) är ett lärosäte som jag har en mycket positiv bild av. De doktorander, lärare och forskare jag har varit i kontakt med på HKR har alla givit en positiv bild av läromiljön. Genom att jag som doktorand varit engagerad i ett forskningsprogram där även HKR ingick, vet jag också att den forskning som bedrivs vid den hälsovetenskapliga institutionen håller hög kvalitet och belyser angelägna frågor. När jag själv besökt högskolan har jag främst slagits av närheten mellan institutionerna. Det ser jag som en stor fördel då det underlättar kunskapsutbytet och tvärvetenskapliga samarbeten. Av dessa skäl betraktar jag HKR som en attraktiv miljö med goda förutsättningar för en nybliven doktor att utvecklas i: som pedagog, forskare och som ansvarstagande kollega med potential att växa in i en ledarskapsroll. Det är mot denna bakgrund som jag söker tjänsten som lektor hos er.
 
-I den nätbaserade kurs jag för tillfället läser inom medicinsk humaniora använder vi Canvas som plattform och även om jag hittills bara har erfarenhet av den från min roll som student, så är jag övertygad om att jag enkelt skulle kunna lära mig att bemästra verktyget. Sedan övergången till alltmer nätbaserade möten och seminarier i anslutning till pandemin har jag också blivit en van användare av Zoom och Microsoft Teams. 
+## Vad har jag att erbjuda er?
 
-När det kommer till mål och visioner med undervisning så tillgodose och säkerställa att studenterna får så goda kunskaper med sig som möjligt. Det är därför av stor vikt att det kollegiala samarbetet fungerar väl och att det sker i en god anda. Här är jag övertygad om att etablerandet och upprätthållandet av en god kommunikation är av största vikt. 
+Jag anser mig lämplig för jobbet som lektor genom att jag har en tvärvetenskapligt bakgrund utifrån vilken jag kan bidra med nya perspektiv. Under min doktorandtid jobbade jag i en rad olika forskningsprojekt och ofta med representanter för organisationer utanför akademin. Erfarenheten därifrån har övat upp min samarbetsförmåga och tränat mig i att vara flexibel, då det i projekt tenderar att uppstå situationer som inte går att förutspå men som måste lösas. Det är en kompetens som jag tror är av nytta i såväl undervisnings- som forskningssammanhang.
 
-Jag tror att jag passar för jobbet genom att jag inte har den traditionella bakgrunden utan kan föra in lite nya perspektiv från min såväl yrkesmässiga som min utbildningsmässiga bakgrund. Under min doktorandtid jobbade jag i en rad olika forskningsprojekt och ofta med representanter för organisationer utanför akademin. Erfarenheten därifrån har övat upp min samarbetsförmåga och tränat mig i att vara flexibel eftersom det i projekt tenderar att uppstå situationer som inte går att förutspå men som måste lösas. De möjligheter men också utmaningar som ett sådant samverkansarbete innebär är något jag har såväl teoretisk som praktisk kunskap av och som jag tror är av nytta i såväl undervisning som forskning där olika former av samverkan ingår.
+Utöver det har jag erfarenhet av att föreläsa för såväl en intresserad allmänhet som för initierade forskare och har en god förmåga att anpassa min kommunikation därefter. Jag har därtill erfarenhet av att arbeta med ansvarsfrågor på institutionsnivå då jag under en period av min doktorandtid tog mig an rollen som doktorandrepresentant i detta sammanhang.
 
-Yrkesmässigt är jag en person som sprider mycket glädje omkring sig och som trivs med att ha människor runt sig. Den sociala biten på en arbetsplats är mycket viktig för mig. På seminarier och möten är jag ofta den som kommer med lite finurliga frågor och invändningar, vilket brukar uppskattas. Jag är van att tala inför folk och inte särskilt blyg i mötet med nya människor. 
+## Vem är jag?
 
-Jag ser fram emot att berätt amer om mig själv vid en eventuell framtida intervju.
+Yrkesmässigt är jag en person som har en förmåga att arbeta väldigt hårt periodvis om så krävs, vilket jag bland annat har gjort i samband med deadlines i de projekt jag har varit involverad i. Jag har ett tekniskt kunnande när det kommer till program som kan underlätta och skapa mervärde. Som person är jag genuint nyfiken på andra människor, och i mötet med andra finner jag stor meningsfullhet och får värdefulla perspektiv.
+
+Jag hoppas och ser fram emot ett möte med er där vi får veta mer om varandra.
 
 \vspace*{0.5cm}
 Vänliga hälsningar,
